@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Geetu Sethi</h1>
 <h3 align="center">A passionate aspiring Data Analyst developing my skills and knowledge to become successful in the Data Industry.</h3>
 
-- 🔭 I’m currently working on **Bike Purchases Analysis**
-
 - 🌱 I’m currently learning **SQL, Python, Tableau, Excel, Data Analysis Process, Project Making etc.**
 
 - 👯 I’m looking to collaborate on **Data Analysis Projects**
