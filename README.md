@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **SQL, Python, Tableau, Excel, Data Analysis Process, Project Making etc.**
 
-- 👯 I’m looking to collaborate on **Data Analysis Projects**
+- 👯 I’m looking to collaborate on **Data Analysis Projects.**
 
-- 💬 Ask me about **SQL, Python, Tableau, Excel, Data Analysis Process**
+- 💬 Ask me about **MYSQL, Python, Tableau, Excel, Data Analysis Process and Techniques involved in it.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/geetu-sethi/**
 
