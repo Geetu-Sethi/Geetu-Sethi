@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/31332352/119162644-9ec37580-ba28-11eb-8e73-b76149197a1e.gif)]
 <h1 align="center">Hi 👋, I'm Geetu Sethi</h1>
-<h3 align="center">A passionate aspiring Data Analyst developing my skills and knowledge to become successful in the Data Industry.</h3>
+<h3 align="center">A passionate aspiring Data Analyst developing skills and knowledge to become successful in the Data Industry.</h3>
 
 - 🌱 I’m currently learning **SQL, Python, Tableau, Excel, Data Analysis Process, Project Making etc.**
 
