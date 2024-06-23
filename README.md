@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis Projects.**
 
-- 💬 Ask me about **MYSQL, Python, Tableau, Excel, Data Analysis Process and Techniques involved in it.**
+- 💬 Ask me about **MYSQL, Power BI, Excel, Data Analysis Process and Techniques involved in it.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/geetu-sethi/**
 
